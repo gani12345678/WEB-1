@@ -1,0 +1,9 @@
+h1{color: blue;background-color: black ;text-align: center;}
+p{color: aquamarine;background-color: beige;border: 5px;}
+body{background-image:url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+p{background-image: url(image.jpg);}
+background-repeat:no-repeat;
+background-size:cover;}
